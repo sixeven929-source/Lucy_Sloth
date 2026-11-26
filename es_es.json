@@ -1,0 +1,10 @@
+{
+  "entity.lucys_sloths.sloth": "Perezoso",
+  "item.lucys_sloths.sloth_spawn_egg": "Huevo generador de perezoso",
+  "subtitle.entity.sloth.ambient": "El perezoso chilla",
+  "subtitle.entity.sloth.death": "El perezoso muere",
+  "subtitle.entity.sloth.eat": "El perezoso come",
+  "subtitle.entity.sloth.grow_seagrass": "El perezoso hace crecer pasto marino",
+  "subtitle.entity.sloth.hurt": "El perezoso es herido",
+  "subtitle.entity.sloth.step": "El perezoso se arrastra"
+}
